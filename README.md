@@ -17,6 +17,6 @@
 При решении тестового задания у вас не должно возникнуть вопросов. Если появляются вопросы, вероятнее всего, у вас недостаточно знаний.
 Задание выложить на гитхаб.
 
-### Contacts:
+### My Contacts:
 
 [![TG](https://img.shields.io/badge/-MyTelegram-636363?style=for-the-badge&logo=telegram&logoColor=3DCCF0)](https://t.me/TonyCotony)
