@@ -1,0 +1,9 @@
+{% extends 'app/base.html' %}
+{% load menu_tags %}
+
+{% block title %}Nested Menus{% endblock %}
+{% block body %}
+    {{ block.super }}
+        <nav>{% draw_menu "main_menu" %}</nav>
+        <h2>{{ name }}</h2>
+{% endblock %}
